@@ -9,7 +9,7 @@ A simple workday scheduler
 - Serve main branch via GitHub Pages.
 
 ## Usage
-View the site at [Horiseon](https://brhestir.github.io/work-day-scheduler/)
+View the site at [work-day-scheduler](https://brhestir.github.io/work-day-scheduler/)
 
 ## Credits
 - Refactored from gt-atl-fsf-ft-11-2020-u-c
