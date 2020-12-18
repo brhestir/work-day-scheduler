@@ -19,9 +19,9 @@ $(document).ready(function() {
     for (var i = 9; i < 18; i++) {
       var timeText;
       if (i === 9) {
-        timeText = moment("2013-02-08 0" + i).format("LT");
+        timeText = moment("2020-12-17 0" + i).format("LT");
       } else {
-        timeText = moment("2013-02-08 " + i).format("LT");
+        timeText = moment("2020-12-17 " + i).format("LT");
       }
       var timeBlock = $("<div>");
       timeBlock.addClass("row time-block");
